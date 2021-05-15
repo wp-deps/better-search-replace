@@ -1,0 +1,7 @@
+{
+	"name": "wp-deps/better-search-replace",
+	"type": "wordpress-plugin",
+	"require": {
+		"composer/installers": "^1.0.6"
+	}
+}
